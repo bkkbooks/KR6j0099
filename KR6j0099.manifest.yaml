@@ -1,0 +1,292 @@
+canonical_identifier: bkk:krp/KR6j0099/v1
+canonical_location: https://kanripo.org/bkk/KR6j0099/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 藥師七佛供養儀軌如意王經
+  identifiers:
+    alt_id:
+    - T19n0927
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0927.xml
+    old_id: T19n0927
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0099_000.yaml, hash: 'sha256:a82bf8771f6278847a02d19abe679c9d17f6eada9a1c4c13c04c5f6a5f883b22'}
+  - {seq: 1, filename: KR6j0099_001.yaml, hash: 'sha256:18c63ab8dcf3bb7be4ca61c65fb90ba349ec18806f613e8c328355b9a544c47a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0099_001.markers.yaml, hash: 'sha256:861608aff70a519be06be5626b3a309acafcbcd945609da2a070ecc8088c233d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 18808
+  label: 藥師七佛供養儀軌如意王經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-1
+    span:
+    - body
+    - 1785
+    - 1785
+  label: 歸依者
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-2
+    span:
+    - body
+    - 1870
+    - 1870
+  label: 發菩提心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-3
+    span:
+    - body
+    - 1912
+    - 1912
+  label: 從真如體中發四無量心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-4
+    span:
+    - body
+    - 2089
+    - 2089
+  label: 四種加持中加持壇宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-5
+    span:
+    - body
+    - 2349
+    - 2349
+  label: 加持房舍壇宇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-6
+    span:
+    - body
+    - 2552
+    - 2552
+  label: 加持座位
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-7
+    span:
+    - body
+    - 2671
+    - 2671
+  label: 加持供物
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-8
+    span:
+    - body
+    - 7431
+    - 7431
+  label: 第一佛寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-9
+    span:
+    - body
+    - 7431
+    - 7431
+  label: 1 善名稱吉祥王如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-10
+    span:
+    - body
+    - 8205
+    - 8205
+  label: 2 威音王如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-11
+    span:
+    - body
+    - 9097
+    - 9097
+  label: 3 金色無垢如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-12
+    span:
+    - body
+    - 9915
+    - 9915
+  label: 4 無憂最勝如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-13
+    span:
+    - body
+    - 10441
+    - 10441
+  label: 5 法海雷音如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-14
+    span:
+    - body
+    - 10972
+    - 10972
+  label: 6 神通王如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-15
+    span:
+    - body
+    - 11448
+    - 11448
+  label: 7 藥師如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-16
+    span:
+    - body
+    - 12328
+    - 12328
+  label: 8 釋迦如來
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-17
+    span:
+    - body
+    - 13061
+    - 13061
+  label: 第二法寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-18
+    span:
+    - body
+    - 13181
+    - 13181
+  label: 第三僧寶
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-19
+    span:
+    - body
+    - 13181
+    - 13181
+  label: 1 文殊菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-20
+    span:
+    - body
+    - 13682
+    - 13682
+  label: 2 救脫菩薩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-21
+    span:
+    - body
+    - 14383
+    - 14383
+  label: 3 金剛手等
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-22
+    span:
+    - body
+    - 15563
+    - 15563
+  label: 十二藥叉大將
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-23
+    span:
+    - body
+    - 16344
+    - 16344
+  label: 齋地神
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-24
+    span:
+    - body
+    - 16939
+    - 16939
+  label: 第三次收末賽願法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0099_T_001-mulu-25
+    span:
+    - body
+    - 18256
+    - 18256
+  label: 復誦懺謝文
+  type: mulu
+  level: 1
+hash: sha256:c22056bf39c886faf1ea91455744aad7a43105ee0719f0a54d9471cb93fcde46
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

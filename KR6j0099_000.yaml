@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0099/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥師七佛供養儀軌如意王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0927.xml
+    old_id: T19n0927
+hash: sha256:a82bf8771f6278847a02d19abe679c9d17f6eada9a1c4c13c04c5f6a5f883b22
