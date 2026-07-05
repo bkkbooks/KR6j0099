@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0099_000.yaml, hash: 'sha256:a82bf8771f6278847a02d19abe679c9d17f6eada9a1c4c13c04c5f6a5f883b22'}
-  - {seq: 1, filename: KR6j0099_001.yaml, hash: 'sha256:18c63ab8dcf3bb7be4ca61c65fb90ba349ec18806f613e8c328355b9a544c47a'}
+  - {seq: 1, filename: KR6j0099_001.yaml, hash: 'sha256:7857e587cdeaf0a493b5e63fc44100a87981073eb59fec8148053ec4fb88af49'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0099_001.markers.yaml, hash: 'sha256:861608aff70a519be06be5626b3a309acafcbcd945609da2a070ecc8088c233d'}
+  - {seq: 0, role: markers, filename: assets/KR6j0099_000.markers.yaml, hash: 'sha256:418c226609ac3556263ed3f6845ba653507995eeb3fffcbb295204228b41ccdb'}
+  - {seq: 1, role: markers, filename: assets/KR6j0099_001.markers.yaml, hash: 'sha256:53516b96523cdb9192d1c2b27bbe30a679c4d33e60652ba28509a3190542f258'}
 table_of_contents:
 - ref:
     seq: 1
@@ -286,7 +287,4 @@ table_of_contents:
   label: 復誦懺謝文
   type: mulu
   level: 1
-hash: sha256:c22056bf39c886faf1ea91455744aad7a43105ee0719f0a54d9471cb93fcde46
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:a8f52568ff264fd7408a72c102cf78e7d676c344063a1266396aa61afe4248a4
