@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0099/v1
 canonical_location: https://kanripo.org/bkk/KR6j0099/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥師七佛供養儀軌如意王經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0099_000.yaml, hash: 'sha256:a82bf8771f6278847a02d19abe679c9d17f6eada9a1c4c13c04c5f6a5f883b22'}
-  - {seq: 1, filename: KR6j0099_001.yaml, hash: 'sha256:7857e587cdeaf0a493b5e63fc44100a87981073eb59fec8148053ec4fb88af49'}
+  - {seq: 1, filename: KR6j0099_001.yaml, hash: 'sha256:bb9d49ec9c2413f6436d10eb026a0f673f29abac9e72c9d7d2f073cc54323f98'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0099_000.markers.yaml, hash: 'sha256:418c226609ac3556263ed3f6845ba653507995eeb3fffcbb295204228b41ccdb'}
-  - {seq: 1, role: markers, filename: assets/KR6j0099_001.markers.yaml, hash: 'sha256:53516b96523cdb9192d1c2b27bbe30a679c4d33e60652ba28509a3190542f258'}
+  - {seq: 1, role: markers, filename: assets/KR6j0099_001.markers.yaml, hash: 'sha256:502c97998d06e30f85e3dbb5c4a973460cfcf17fe23f8ebd81030738c66fd691'}
 table_of_contents:
 - ref:
     seq: 1
@@ -287,4 +287,7 @@ table_of_contents:
   label: 復誦懺謝文
   type: mulu
   level: 1
-hash: sha256:a8f52568ff264fd7408a72c102cf78e7d676c344063a1266396aa61afe4248a4
+hash: sha256:f1f7ba3bfb1822b27bb0dcee09778f449c33893890d7594628ea5da440205378
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
